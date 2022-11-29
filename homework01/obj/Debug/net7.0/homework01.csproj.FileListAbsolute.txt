@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Homework3\homework01\bin\Debug\net7.0\homework01.exe
+D:\Users\antik\Documents\Homework3\homework01\bin\Debug\net7.0\homework01.deps.json
+D:\Users\antik\Documents\Homework3\homework01\bin\Debug\net7.0\homework01.runtimeconfig.json
+D:\Users\antik\Documents\Homework3\homework01\bin\Debug\net7.0\homework01.dll
+D:\Users\antik\Documents\Homework3\homework01\bin\Debug\net7.0\homework01.pdb
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.AssemblyInfo.cs
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.dll
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\refint\homework01.dll
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.pdb
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\homework01.genruntimeconfig.cache
+D:\Users\antik\Documents\Homework3\homework01\obj\Debug\net7.0\ref\homework01.dll
